@@ -193,7 +193,7 @@ XIII. Use la propiedad de relleno abreviado para agregar 10 píxeles de relleno 
 ```
 <style>
 h1 {
-  padding: padding: 10px 40px;
+  padding: 10px 40px;
 }
 </style>
 
